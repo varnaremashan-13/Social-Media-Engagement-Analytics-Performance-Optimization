@@ -1,5 +1,4 @@
 # Social-Media-Engagement-Analytics-Performance-Optimization
-
 🔹 Introduction
 Social media performance and audience engagement are critical for brand visibility, customer interaction, and marketing success. However, not all posts achieve the same level of engagement, and poorly performing content can reduce reach and brand impact. This project uses data analytics techniques to analyze social media engagement data and identify the key factors that influence whether a post achieves High, Medium, or Low performance, helping organizations improve content strategy and audience engagement.
 🔹 Dataset
